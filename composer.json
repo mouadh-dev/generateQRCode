@@ -1,0 +1,8 @@
+{
+    "name": "mouadh/qrtest",
+    "description": "description",
+    "license": "MIT",
+    "require": {
+        "chillerlan/php-qrcode": "^4.3"
+    }
+}
